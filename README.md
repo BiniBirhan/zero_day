@@ -1,1 +1,1 @@
-Readme file to introduce how to work from your machine the git task
+Read me message to show how we can work our git tasks on our machines
